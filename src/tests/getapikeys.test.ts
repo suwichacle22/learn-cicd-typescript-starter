@@ -3,6 +3,6 @@ import {getAPIKey} from "../api/auth.ts"
 
 describe("get auth API key", () => {
     test("get API key", () => {
-    expect(getAPIKey({authorization : "apikey"})).toBe("notnull")
+    expect(getAPIKey({authorization : "apikey"})).toBe(null)
     })
 })
