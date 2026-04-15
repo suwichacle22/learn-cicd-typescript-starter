@@ -27,4 +27,4 @@ suwichacle22's version of Boot.dev's Notely app.
 
 addtests test workflows in github
 
-test
+test update workflow
