@@ -25,4 +25,4 @@ You do _not_ need to set up a database or any interactivity on the webpage yet. 
 
 suwichacle22's version of Boot.dev's Notely app.
 
-addtests test workflows
+addtests test workflows in github
